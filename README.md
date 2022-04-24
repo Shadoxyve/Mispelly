@@ -7,19 +7,14 @@ Features
 -------
  - Moderation    
      - Kick , Ban , Unban , Timeout
-     
  - Giveaway      
      - Create and Manage the giveaway
-     
  - Logging       
      - Full Server Logging
-     
  - Tickets       
-     - A Full ticketing feature included with Transcripts
-     
+     - A Full ticketing feature included with Transcripts   
  - Verification  
      - A basic command to verify users themselves
-     
  - Miscellaneous 
      - A set of commands that does not fall at above categories
  
