@@ -5,13 +5,23 @@ A Discord bot packed up with basic features to assist moderating your server
 
 Features 
 -------
- - Moderation - Kick , Ban , Unban , Timeout
- - Giveaway - Create and Manage the giveawa
- - Server Logging
- - Moderation
- - Tickets
- - Verification 
- - Miscellaneous
+ - Moderation    
+     - Kick , Ban , Unban , Timeout
+     
+ - Giveaway      
+     - Create and Manage the giveaway
+     
+ - Logging       
+     - Full Server Logging
+     
+ - Tickets       
+     - A Full ticketing feature included with Transcripts
+     
+ - Verification  
+     - A basic command to verify users themselves
+     
+ - Miscellaneous 
+     - A set of commands that does not fall at above categories
  
  Pre Requirements 
  -------
